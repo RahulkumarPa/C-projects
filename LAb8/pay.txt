@@ -1,0 +1,12 @@
+Prepared BY: Ian, Rahulkumar Patel
+
+***************PAY FOR THIS WEEK*******************
+===================================================
+
+   Name         Hours*        Wage*        Salary*
+J.     Smith    25.00        $15.00        $375.00
+M.     Jones    33.50        $17.50        $586.25
+P.     Brown    40.00        $21.00        $840.00
+J.   Simpson    37.50        $18.00        $675.00
+G.  Phillips    15.00        $11.25        $168.75
+R.     pATEL    36.50        $0.00        $0.00

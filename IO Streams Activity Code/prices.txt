@@ -1,0 +1,4 @@
+Banana 1.99
+Apple 2.39
+Pear 1.49
+Tomato 2.99
